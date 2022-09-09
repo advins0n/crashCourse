@@ -1,2 +1,10 @@
-let userName = window.prompt("What's your name?");
-console.log('Hi '+userName);
+let lib = [
+    {
+        artist: 'cake',
+        song: 'the distance'
+    },
+    {
+        artist: 'shinedown',
+        song: 'heroes'
+    }
+];
