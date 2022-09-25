@@ -7,4 +7,8 @@ let lib = [
         artist: 'shinedown',
         song: 'heroes'
     }
+    {
+        artist: 'shinedown',
+        song: 'planet zero'
+    }
 ];
